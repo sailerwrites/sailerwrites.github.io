@@ -6,7 +6,7 @@ cover-img: /assets/img/dummy.jpg
 thumbnail-img: /assets/img/dummy.png
 share-img: /assets/img/dummy.jpg
 comments: false
-tags:
+tags: [infp, introvert]
 author: Sailer
 ---
 
