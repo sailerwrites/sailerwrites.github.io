@@ -1,28 +1,15 @@
-# \---
+---
+layout: post
+title: The INFP Writer
+subtitle:
+cover-img: /assets/img/dummy.jpg
+thumbnail-img: /assets/img/dummy.png
+share-img: /assets/img/dummy.jpg
+comments: false
+tags:
+author: Sailer
+---
 
-# layout: post
-
-# title: The INFP Writer
-
-# subtitle:
-
-# cover-img: /assets/img/dummy.jpg
-
-# thumbnail-img: /assets/img/dummy.png
-
-# share-img: /assets/img/dummy.jpg
-
-# comments: false
-
-# tags:
-
-# author: Sailer
-
-# \---
-
-# 
-
-# 
 
 #   The INFP Writer
 
