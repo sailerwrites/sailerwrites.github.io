@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: 
+subtitle: “I sail no matter how drastic the storms are: rather not to sail until the sunset is gone.”
 ---
 
 **About Me** 
