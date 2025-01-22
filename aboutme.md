@@ -48,5 +48,5 @@ If you are generous and you want to support my passion, please buy me a coffee h
 
 If you want to stay anonymous, you can send me messages here:
 
-**Sayout:** sailerstories.sayout.net 
+**Sayout:** [sailerstories.sayout.net] (http://sailerstories.sayout.net)   
 
