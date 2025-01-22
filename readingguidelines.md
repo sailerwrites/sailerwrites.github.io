@@ -1,3 +1,9 @@
+---
+layout: page
+title: Reading Guidelines
+subtitle: 
+---
+
 # **Reading Guidelines** 
 
 No part of my stories/writings may be reproduced or transmitted in any form or in any means, electronic or mechanical, including photocopying, recording or by any information storage and retrieval system, without permission in writing from the copyright owner/author.
