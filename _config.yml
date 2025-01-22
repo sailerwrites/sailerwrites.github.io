@@ -23,11 +23,11 @@ navbar-links:
   Blogs: "_posts"
   Writings: ""
   - title: Serials
-    url: /serials/ 
+    url: "serials" 
   - title: Short Stories
-    url: /shortstories/
+    url: "shortstories"
   - title: List of Titles
-    url: /listoftitles/ 
+    url: "listoftitles"
   Resources: "" 
    - Story Directory: "https://sailer.carrd.co/"
    - About Me: "aboutme"
