@@ -20,7 +20,7 @@ author: Sailerstories
 ###############################################
 
 navbar-links:
-  Blogs: 
+  Blogs: "_posts"
   Writings: ""
    - Serials: 
    - Short Stories: 
