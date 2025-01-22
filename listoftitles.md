@@ -1,4 +1,8 @@
-# List of Titles
+---
+layout: page
+title: List of Titles 
+subtitle: 
+---
 
 **Kailan Universe Collection** 
 
