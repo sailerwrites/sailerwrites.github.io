@@ -1,3 +1,16 @@
+---
+layout: post
+title: Strawberry Avalanche
+subtitle: The strawberry skies greeted me; somewhat a mixture of milk and strawberry yogurt I often see in this universe with him.
+cover-img: /assets/img/dummy.jpg
+thumbnail-img: /assets/img/dummy.png
+share-img: /assets/img/dummy.jpg
+comments: false
+tags:
+author: Sailer
+category: short stories 
+---
+
 The strawberry skies greeted me; somewhat a mixture of milk and strawberry yogurt I often see in this universe with him. In this universe, the warm feeling took over and I let it overflow like the rivers to the ocean. We were on the edge of the truck, our feet dangling, and savored the air of the fresh green fields and trees the truck passed by. There was a basket of strawberries on the truck and he picked up some of it and laid it down between us because he knew that it was my favorite. Napakaaliwalas ng mukha niya, nangingislap ang mga mata at nakapaskil ang magandang ngiti sa mga labi. His lips were like ripe strawberries, and his hair was blown by the wind. There was a comfortable silence between us as we witnessed the pink skies and the green fields.
 
 “Kahit walang strawberries at strawberry clouds, mas gugustuhin ko pa ring makasama ka. I’m happy that you’re happy now. Mababaw lang ang kaligayahan ko, ang mapasaya ka lang.” I raised my hand as if the clouds are reachable. Mukha rin itong cotton candy sa paningin ko. I heard him chuckled beside me and lightly pat my head, one of his habit when he’s with me. Tila gumaan ang pakiramdam ko lalo nang marinig ko ang mahina niyang tawa. Ang sigla-sigla ng aura niya at nahahawaan niya ako, kung sana’y ganito na lang siya habang-buhay. Oo, habang-buhay.
