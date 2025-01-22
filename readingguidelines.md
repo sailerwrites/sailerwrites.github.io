@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reading Guidelines
-subtitle: 
+permalink: /readingguidelines/ 
 ---
 
 # **Reading Guidelines** 
