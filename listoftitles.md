@@ -26,9 +26,3 @@ Kanlungan (Completed)
 
 The Saltwater Room (Completed) 
 
-**Sailer Summers Collection**
-
-Shared Task (Ongoing) 
-
-Sweeter Than Fiction (Ongoing) 
-
