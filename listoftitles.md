@@ -1,7 +1,7 @@
 ---
 layout: page
 title: List of Titles 
-subtitle: 
+subtitle: Here lies my collection.
 ---
 
 **Kailan Universe Collection** 
