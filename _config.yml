@@ -20,8 +20,15 @@ author: Sailerstories
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-
+  Blogs: 
+  Writings: 
+   - Serials: 
+   - Short Stories: 
+   - List of Titles: 
+  Resources: 
+   - About Me: "aboutme"
+   - Reading Guidelines: 
+  
 ################
 # --- Logo --- #
 ################
