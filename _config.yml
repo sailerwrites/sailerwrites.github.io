@@ -21,11 +21,12 @@ author: Sailerstories
 
 navbar-links:
   Blogs: 
-  Writings: 
+  Writings: ""
    - Serials: 
    - Short Stories: 
    - List of Titles: 
-  Resources: 
+  Resources: "" 
+   - Story Directory: 
    - About Me: "aboutme"
    - Reading Guidelines: 
   
@@ -52,15 +53,15 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
-social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+# social-network-links:
+#  email: "someone@example.com"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
+# github: daattali
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: "@daattali"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
