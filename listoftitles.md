@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: List of Titles 
 title: List of Titles 
 subtitle: Here lies my collection.
 ---
