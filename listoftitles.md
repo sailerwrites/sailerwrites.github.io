@@ -1,7 +1,7 @@
 ---
-layout: List of Titles 
+layout: page
 title: List of Titles 
-subtitle: Here lies my collection.
+permalink: /listoftitles/ 
 ---
 
 **Kailan Universe Collection** 
