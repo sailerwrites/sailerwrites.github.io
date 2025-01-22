@@ -6,11 +6,6 @@ subtitle:
 
 **About Me** 
 
-[https://artvee.com/main/?s=A+Little+Sea+Maiden](https://artvee.com/main/?s=A+Little+Sea+Maiden) 
-
-**A Little Sea Maiden**  
-William Henry Magetson (English, 1861-1940)
-
 Hi, I go by the name 'Sailer' in the writing world and Av in the physical world, with the pseudonym, Sailer Summers, because I love to sail (like Moana does) in the summer (not literally, in my imagination). I have curly hair like her and love the sea, in grey and blue colors. 
 
 **As a Writer**
