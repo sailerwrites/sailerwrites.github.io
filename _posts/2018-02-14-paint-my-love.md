@@ -1,4 +1,16 @@
-# Paint My Love
+---
+layout: post
+title: Paint My Love
+subtitle:
+cover-img: /assets/img/dummy.jpg
+thumbnail-img: /assets/img/dummy.png
+share-img: /assets/img/dummy.jpg
+comments: false
+tags:
+author: Sailer
+category: short stories
+---
+
 
 *Note: This is a raw version of this short story that I’ve written years ago. There are lots of errors, and I will let it like this as a memento*
 
