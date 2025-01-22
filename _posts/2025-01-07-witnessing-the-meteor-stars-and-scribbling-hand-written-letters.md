@@ -1,6 +1,14 @@
-# Witnessing the meteor stars and scribbling hand-written letters
-
-# 
+---
+layout: post
+title: Witnessing the meteor stars and scribbling hand-written letters
+subtitle:
+cover-img: /assets/img/dummy.jpg
+thumbnail-img: /assets/img/dummy.png
+share-img: /assets/img/dummy.jpg
+comments: false
+tags:
+author: Sailer
+---
 
 *Ideas are coming in now and materializing what I have had \- hidden stories and tales in different world \- seems to be the way to bleed out the ink, even indirectly and release this pent-up thoughts...*
 
@@ -14,9 +22,9 @@ Death may be imminent, and to sleep for ages, with no body and soul that wanders
 
 As you were breathing and living in this world, you'd realize later on that people would forget about you. You aim, chase, grind, and share the contents of your soul to the world, but would they remember? Some mornings, instead of having a proper breakfast, I lay down in bed, eating biscuits, and wondered if I was on the right track in my life. My peers were in a race of who was going to marry, who was going to have a child, who was going anywhere in the world, and who was going to have achievements in their personal and professional careers. And here I am, a big child who's barely surviving adulthood and trying to make sense of it all. In order to sleep at night, I need to take those medications, and I don't think I can stop myself from breaking \- when it's overwhelming \- the repeating cycle and the clock that is ticking \- demanding me to be sane to live by means. 
 
-We are slaves to capitalism and consumerism, which affects our peace of mind and well-being. Innovative products are constantly on our feed \- begging us to buy them \- food, things, anything that catches our attention. Everything almost happens too fast \- even death. In the news, someone died from an accident or a brutal murder or even a crime of passion from jealous husbands. I want to shut them down \- the noise from the outside world so I can focus on what's within this life. I pondered over what life had been for our ancestors and the people who lived before us in this world. They had no Internet and no clear communication to families far away, just writing letters that took months after the recipient received it. While now, it's only seconds away to communicate with anyone on the Internet, and it's very convenient for strangers to contact us. Globalization has come in, and news from all over the world is known via searching on the web. What would happen if the Internet is gone now? Do we go back to the past times with only send letters across continents and seas? I'd like to experience that.
+We are slaves to capitalism and consumerism, which affects our peace of mind and well-being. Innovative products are constantly on our feed \- begging us to buy them \- food, things, anything that catches our attention. Everything almost happens too fast \- even death. In the news, someone died from an accident or a brutal murder or even a crime of passion from jealous husbands. I want to shut them down \- the noise from the outside world so I can focus on what's within this life. I pondered over what life had been for our ancestors and the people who lived before us in this world. They had no Internet and no clear communication with families far away, just writing letters that took months after the recipient received them. While now, it's only seconds away to communicate with anyone on the Internet, and it's very convenient for strangers to contact us. Globalization has come in, and news from all over the world is known via searching on the web. What would happen if the Internet is gone now? Do we go back to the past times with only sending letters across continents and seas? I'd like to experience that.
 
-I do want to write letters \- hand-written letters that contain my thoughts, emotions, and stories. I want to send them to the precious people that matter to me. Instead of letters or emails stored on the Internet, we can touch the texture of the letters, the penmanship of our friends, loved ones, and even strangers, and the pictures, stamps, and cute things from them along the way. How would it feel to express through paper than typing it on a screen? The thought process may be different, as well as the manner of writing.
+I do want to write letters \- handwritten letters that contain my thoughts, emotions, and stories. I want to send them to the precious people that matter to me. Instead of letters or emails stored on the Internet, we can touch the texture of the letters, the penmanship of our friends, loved ones, and even strangers, and the pictures, stamps, and cute things from them along the way. How would it feel to express through paper than typing it on a screen? The thought process may be different, as well as the manner of writing.
 
 Ideas are coming in now and materializing what I have had \- hidden stories and tales in different world \- seems to be the way to bleed out the ink, even indirectly and release this pent-up thoughts and emotions.
 
