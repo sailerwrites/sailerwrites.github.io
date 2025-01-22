@@ -1,3 +1,17 @@
+---
+layout: post
+title: Back to December
+subtitle:
+cover-img: /assets/img/dummy.jpg
+thumbnail-img: /assets/img/dummy.png
+share-img: /assets/img/dummy.jpg
+comments: false
+tags:
+author: Sailer
+category: short stories
+---
+
+
 # Back to December
 
 Wade started the engine of his car and sped away. The sun is setting, revealing orange-gold colors in the sky, sun rays reflecting the dashboard of his car. He turned on the stereo until a familiar song blasts inside.
