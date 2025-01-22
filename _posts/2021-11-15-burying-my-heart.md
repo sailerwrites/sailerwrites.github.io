@@ -1,3 +1,17 @@
+---
+layout: post
+title: Burying my heart 
+subtitle:
+cover-img: /assets/img/dummy.jpg
+thumbnail-img: /assets/img/dummy.png
+share-img: /assets/img/dummy.jpg
+comments: false
+tags:
+author: Sailer
+category: short stories
+---
+
+
 # Burying my heart 
 
  
