@@ -1,18 +1,15 @@
 ---
 layout: post
 title: Power of Pen
-subtitle:
+subtitle: Undeniably, the pen holds the versions of truth in the eyes of the writers and of the artists who are witnesses of the world we are living in.
 cover-img: /assets/img/dummy.jpg
 thumbnail-img: /assets/img/dummy.png
 share-img: /assets/img/dummy.jpg
 comments: false
-tags:
+tags: [writer]
 author: Sailer
 ---
 
-
-
-# Power of Pen
 
 Undeniably, the pen holds the versions of truth in the eyes of the writers and of the artists who are witnesses of the world we are living in. The power of the pen accounts for the tales and memories long gone yet cherished and will be remembered. I see a series of episodes and scenes unfolding in front of my eyes. A part of it spills on papers and a door to another universe. A universe that contains the threads of the long-gone hinterlands in the recesses of my mind.
 
