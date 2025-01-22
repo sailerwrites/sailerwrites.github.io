@@ -22,9 +22,12 @@ author: Sailerstories
 navbar-links:
   Blogs: "_posts"
   Writings: ""
-   - Serials: 
-   - Short Stories: 
-   - List of Titles: "listoftitles"
+  - title: Serials
+    url: /serials/
+  - title: Short Stories
+    url: /shortstories/
+  - title: List of Titles
+    url: /listoftitles/
   Resources: "" 
    - Story Directory: "https://sailer.carrd.co/"
    - About Me: "aboutme"
