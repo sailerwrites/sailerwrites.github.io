@@ -24,11 +24,11 @@ navbar-links:
   Writings: ""
    - Serials: 
    - Short Stories: 
-   - List of Titles: "listoftitles.md"
+   - List of Titles: "listoftitles"
   Resources: "" 
    - Story Directory: "https://sailer.carrd.co/"
    - About Me: "aboutme"
-   - Reading Guidelines: "readingguidelines.md"
+   - Reading Guidelines: "readingguidelines"
   
 ################
 # --- Logo --- #
@@ -104,7 +104,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "sailerwrites.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -262,7 +262,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Philippines"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
