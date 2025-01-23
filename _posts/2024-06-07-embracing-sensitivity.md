@@ -1,4 +1,15 @@
-# Embracing Sensitivity 
+---
+layout: post
+title: Embracing Sensitivity 
+subtitle: 
+cover-img: /assets/img/dummy.jpg
+thumbnail-img: /assets/img/dummy.png
+share-img: /assets/img/dummy.jpg
+comments: false
+tags: 
+author: Sailer
+category: short stories
+---
 
 # A Part of Who I Am
 
