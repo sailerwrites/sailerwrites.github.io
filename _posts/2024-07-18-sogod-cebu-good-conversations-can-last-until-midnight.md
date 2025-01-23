@@ -3,9 +3,9 @@
 layout: post
 title: Sogod, Cebu: Good Conversations Can Last Until Midnight
 subtitle: 
-cover-img: /assets/img/sogod banner.jpg
-thumbnail-img: /assets/img/sogod banner.jpg
-share-img: /assets/img/sogod banner.jpg
+cover-img: assets/img/sogod banner.jpg
+thumbnail-img: assets/img/sogod banner.jpg
+share-img: assets/img/sogod banner.jpg
 comments: false
 tags: [travel]
 author: Sailer
