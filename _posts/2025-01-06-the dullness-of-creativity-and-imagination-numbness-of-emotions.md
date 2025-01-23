@@ -1,4 +1,14 @@
-# The dullness of creativity and imagination, numbness of emotions 
+---
+layout: post
+title: The dullness of creativity and imagination, numbness of emotions 
+subtitle: 
+cover-img: /assets/img/dummy.jpg
+thumbnail-img: /assets/img/dummy.png
+share-img: /assets/img/dummy.jpg
+comments: false
+tags: [writer]
+author: Sailer
+---
 
 *How does it feel to drown in cold flames?*
 
