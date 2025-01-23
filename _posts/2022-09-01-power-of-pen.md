@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Power of Pen
-subtitle: Undeniably, the pen holds the versions of truth in the eyes of the writers and of the artists who are witnesses of the world we are living in.
-cover-img: /assets/img/dummy.jpg
+subtitle: 
 thumbnail-img: /assets/img/dummy.png
 share-img: /assets/img/dummy.jpg
 comments: false
