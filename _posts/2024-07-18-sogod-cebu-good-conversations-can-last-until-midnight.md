@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: Sogod, Cebu: Good Conversations Can Last Until Midnight
@@ -9,6 +10,8 @@ comments: false
 tags: [travel]
 author: Sailer
 ---
+
+
 
 **I’m glad I have work friends.**  
 While on relapse, it’s really important to reach out to your friends and family, gathering moral and emotional support who can understand your situation. Also, when you have work friends you can vibe with, they can ask you if they plan an outing, and I did a couple of times – saying ‘yes’ whenever I wanted to because I needed the detox or destressing from our stressful work. Well, it’s very stressful for me because of the fast transition, swift changes, and some colleagues that I didn’t want to see or even interact with due to some reasons.
