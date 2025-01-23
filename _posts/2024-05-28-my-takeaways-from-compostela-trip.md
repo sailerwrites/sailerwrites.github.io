@@ -1,4 +1,14 @@
-# **My Takeaways from Compostela Trip**
+---
+layout: post
+title: My Takeaways from Compostela Trip
+subtitle: 
+cover-img: /assets/img/compostela takeaways.jpg
+thumbnail-img: /assets/img/compostela takeaways.jpg
+share-img: /assets/img/compostela takeaways.jpg
+comments: false
+tags: [travel]
+author: Sailer
+---
 
 **Key Takeaways in Compostela**
 
