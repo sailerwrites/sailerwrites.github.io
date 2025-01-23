@@ -1,4 +1,15 @@
-# **The Coffee Shop** 
+---
+layout: post
+title: The Coffee Shop
+subtitle: Owl-like glasses. A baseball cap. And a guitar case. People came into the Coffee Shop because they were stuck outside due to heavy rain despite summertime and Jae was one of them. He kindly asked to share a table with me and I agreed, still holding my book and a bit reluctant when he asked some questions about what I was reading. A bit shy from the sudden interaction, Jae did not falter from it. Instead, he smiled a lot, and when he smiled, his eyes and face brightened like sunshine. The serene ambiance of the Coffee Shop, the rustic and wooden interior, and the aroma of coffee and pastries are the reasons why I stayed for hours there. And him.
+cover-img: /assets/img/dummy.jpg
+thumbnail-img: /assets/img/dummy.png
+share-img: /assets/img/dummy.jpg
+comments: false
+tags: 
+author: Sailer
+category: short stories
+---
 
 Owl-like glasses. A baseball cap. And a guitar case. People came into the Coffee Shop because they were stuck outside due to heavy rain despite summertime and Jae was one of them. He kindly asked to share a table with me and I agreed, still holding my book and a bit reluctant when he asked some questions about what I was reading. A bit shy from the sudden interaction, Jae did not falter from it. Instead, he smiled a lot, and when he smiled, his eyes and face brightened like sunshine. The serene ambiance of the Coffee Shop, the rustic and wooden interior, and the aroma of coffee and pastries are the reasons why I stayed for hours there. And him.
 
