@@ -1,6 +1,15 @@
-# 5 Takeaways from My Boljoon Trip
+---
+layout: post
+title: 5 Takeaways from My Boljoon Trip
+subtitle: 
+cover-img: /assets/img/boljoon banner.jpg
+thumbnail-img: /assets/img/boljoon banner.jpg
+share-img: /assets/img/boljoon banner.jpg
+comments: false
+tags: [travel]
+author: Sailer
+---
 
-# 
 
 When you travel, there’s no denying that you have learning experiences along the way. We travel for various reasons and my reasons for this trip were merely because I want to spend this time with my friends in the workplace, cherishing the final moments we have as a co-worker. After all, we never know when our last day in our company will be.
 
