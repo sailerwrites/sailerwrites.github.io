@@ -1,4 +1,14 @@
-**A Spontaneous Trip to Boljoon**
+---
+layout: post
+title: A Spontaneous Trip to Boljoon
+subtitle: 
+cover-img: /assets/img/boljoon banner 2.jpg
+thumbnail-img: /assets/img/boljoon banner 2.jpg
+share-img: /assets/img/boljoon banner 2.jpg
+comments: false
+tags: [travel]
+author: Sailer
+---
 
 Timeline:  
 March 15 – 17  
