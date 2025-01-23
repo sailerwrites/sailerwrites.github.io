@@ -1,3 +1,15 @@
+---
+layout: post
+title: Choice of Books
+subtitle: 
+cover-img: /assets/img/dummy.jpg
+thumbnail-img: /assets/img/dummy.png
+share-img: /assets/img/dummy.jpg
+comments: false
+tags: [reading]
+author: Sailer
+---
+
 What are your choice of books? Do you prefer short stories, long novels, or poetry? What are your usual readings? 
 
 Each of us, bookworms, and wide readers has our preferences when it comes to books. There are lots of books out there, waiting to be read and explored and it depends on the readers if they picked it or ignored it. Our choice of books may start from the moment we open a book way back in childhood and I remembered that I am fond of flipping my English Language book to search for stories like legends, fables, myths, and random short stories of ordinary people. My first choice of genre is a short story, anything that can be consumed in a short time or one sitting. I've always been introduced to novels that tell stories about life in general. 
