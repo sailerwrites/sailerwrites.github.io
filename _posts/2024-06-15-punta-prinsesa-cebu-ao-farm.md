@@ -1,4 +1,5 @@
----
+
+--
 layout: post
 title: Punta Prinsesa, Cebu: AO Farm
 subtitle: At first, we decided to go to Tops Cebu, where you can see the entire Cebu City from an observation deck that is shaped like a circle. We can see the panorama view of Cebu City, and its majestic view during the day and night. I had already imagined that, but my best friend changed his mind because what I had in mind was that we walked to Tops Cebu via Talamban – the route that we walked when we were there. He said that the route was steeper and more dangerous for us to traverse. So he abandoned that idea, and so did I. He suggested the AO Farm and I agreed when I checked its photos and vibes on the Internet by reading an article by a blogger.
