@@ -1,3 +1,15 @@
+---
+layout: post
+title: 
+subtitle: 
+cover-img: /assets/img/simala-banner-2.png
+thumbnail-img: /assets/img/simala-banner-2.png
+share-img: /assets/img/simala-banner-2.png
+comments: false
+tags: [travel]
+author: Sailer
+---
+
 # Simala: Reflecting on our faith
 
 The trip to Simala started when I learned the story of St. Benedict from my work friends and shared the spooking story of our home – and that we needed that protection. It all started from that desire to relinquish the ‘bad vibes’ inside our home. My team lead at work told me about it, and then I decided to visit Simala Shrine in Lindogon, Sibonga, with my mother. It was July. I thought about visiting the Shrine and Mary’s Palace in the South of Cebu. It’s been years since I haven’t been there – and it’s way back in high school. A distant past. We only visited Simala with no souvenirs. Now that we have come back, I have surely secured souvenirs.
