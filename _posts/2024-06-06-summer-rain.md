@@ -1,4 +1,15 @@
-# Summer Rain
+---
+layout: post
+title: Summer Rain
+subtitle: 
+cover-img: /assets/img/dummy.jpg
+thumbnail-img: /assets/img/dummy.png
+share-img: /assets/img/dummy.jpg
+comments: false
+tags: 
+author: Sailer
+category: short stories 
+---
 
 It’s been years since he didn’t come back to his hometown. A camera dangling on his neck and a trolley he pulled to get on the bus, Myungsoo stared at the rain falling outside the bus window. A summer rain.
 
