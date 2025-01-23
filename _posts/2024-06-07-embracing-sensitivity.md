@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Embracing Sensitivity 
-subtitle: 
+subtitle: At midnight, the physical sensations seem more noticeable and intense, the fast beating of my heart; the sweaty hands; the pulsing in my veins; and that annoying static noise that breaks the silence in the room. Apart from that, the feeling of falling from a precipice or drowning in a dark, deep ocean describes the emotional turmoil happening inwardly. These kinds of experiences are my night occasions, like a room that’s too dark, hidden, and bruised, and sometimes too complex to embrace it. Let it flow like the waters on the river or else, everything will just shut down unconsciously. 
 cover-img: /assets/img/dummy.jpg
 thumbnail-img: /assets/img/dummy.png
 share-img: /assets/img/dummy.jpg
