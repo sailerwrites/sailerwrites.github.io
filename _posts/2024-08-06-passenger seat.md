@@ -1,6 +1,15 @@
-# **Passenger Seat**
-
- 
+---
+layout: post
+title: Passenger Seat
+subtitle: 
+cover-img: /assets/img/dummy.jpg
+thumbnail-img: /assets/img/dummy.png
+share-img: /assets/img/dummy.jpg
+comments: false
+tags: 
+author: Sailer
+category: short stories
+---
 
 Kung may ibang tao ang makakarinig sa pinag-iisip ko, malamang sasabihin nila na napaka-petty ko dahil passenger seat lang naman ‘yan. No biggie. But sometimes, it’s really hurts because, in a way, I was put in a place that made me realize I’m just the second one.
 
