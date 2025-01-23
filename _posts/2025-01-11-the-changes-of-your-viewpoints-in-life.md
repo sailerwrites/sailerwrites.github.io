@@ -1,4 +1,14 @@
-# **The Changes of Your Viewpoints in Life**
+---
+layout: post
+title: The Changes of Your Viewpoints in Life
+subtitle: 
+cover-img: /assets/img/dummy.jpg
+thumbnail-img: /assets/img/dummy.png
+share-img: /assets/img/dummy.jpg
+comments: false
+tags: [personal growth]
+author: Sailer
+---
 
 Time flew so fast. The courage to start anew, accepting your past, including your shortcomings, mistakes, and even lingering regrets, it’s there but it doesn’t have that much power to affect your present moment unless you give it a chance to snake your mind; the will to live your life in your own terms and be braver and happier is a life-changing decision in your life. To live on our own terms, not what others have perceived of what happiness and success look like. 
 
