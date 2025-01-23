@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scarlet Letters (Don’t Like Her)
-subtitle: 
+subtitle: Pang-ilang beses na ba itong naging wasted at tila nawalan na ng gana sa buhay sa tuwing sinasaktan ito ng kasintahan nito. Scarlet didn't even want to remember that girlfriend's name. Ilang beses na rin niyang nasaksihan ang pagbabalikan at paghihiwalay ng mga ito na hindi na kasorpre-sorpresa sa kanya.
 cover-img: /assets/img/dummy.jpg
 thumbnail-img: /assets/img/dummy.png
 share-img: /assets/img/dummy.jpg
