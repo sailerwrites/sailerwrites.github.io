@@ -1,4 +1,14 @@
-# **My Healing Journey** 
+---
+layout: post
+title: My Healing Journey
+subtitle: 
+cover-img: /assets/img/dummy.jpg
+thumbnail-img: /assets/img/dummy.png
+share-img: /assets/img/dummy.jpg
+comments: false
+tags: [mental health]
+author: Sailer
+---
 
 # **the childhood pessimism**
 
