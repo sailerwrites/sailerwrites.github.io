@@ -1,3 +1,15 @@
+---
+layout: post
+title: 
+subtitle: 
+cover-img: /assets/img/dummy.jpg
+thumbnail-img: /assets/img/dummy.png
+share-img: /assets/img/dummy.jpg
+comments: false
+tags: [travel]
+author: Sailer
+---
+
 # Punta Prinsesa, Cebu: AO Farm
 
 **Punta Prinsesa: AO Farm, Long Walks, & Nature on Tops Until Sunset**  
