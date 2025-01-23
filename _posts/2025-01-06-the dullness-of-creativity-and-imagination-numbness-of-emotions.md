@@ -6,7 +6,7 @@ cover-img: /assets/img/dummy.jpg
 thumbnail-img: /assets/img/dummy.png
 share-img: /assets/img/dummy.jpg
 comments: false
-tags: [writer]
+tags: [sabaw thoughts, stream of consciousness, thoughts]
 author: Sailer
 ---
 
