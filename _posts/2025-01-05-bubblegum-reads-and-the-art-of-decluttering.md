@@ -1,6 +1,14 @@
-# **Bubblegum reads and the art of decluttering**
-
-## life goes on . . .
+---
+layout: post
+title: Bubblegum reads and the art of decluttering
+subtitle: life goes on . . .
+cover-img: /assets/img/dummy.jpg
+thumbnail-img: /assets/img/dummy.png
+share-img: /assets/img/dummy.jpg
+comments: false
+tags: [writer]
+author: Sailer
+---
 
 # Bubblegum reads
 
