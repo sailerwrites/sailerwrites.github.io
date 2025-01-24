@@ -13,14 +13,16 @@
 title: Sailer's Abode 
 
 # Your name to show in the footer
-author: Sailerstories
+author: Sailer 
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  Topics: /tags/ 
+  Topics: /tags/ \
+  
+
  
   
 ################
