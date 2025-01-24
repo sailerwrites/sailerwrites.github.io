@@ -20,18 +20,8 @@ author: Sailerstories
 ###############################################
 
 navbar-links:
-  Blogs: "_posts"
-  Writings: ""
-  - Serials
-    url: "serials" 
-  - title: Short Stories
-    url: "shortstories"
-  - title: List of Titles
-    url: "listoftitles"
-  Resources: "" 
-   - Story Directory: "http://sailer.carrd.co"
-   - About Me: "aboutme"
-   - Reading Guidelines: "readingguidelines"
+  Topics: 
+ 
   
 ################
 # --- Logo --- #
