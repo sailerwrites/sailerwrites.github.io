@@ -1,5 +1,6 @@
 ---
 
+layout: post
 title: My Healing Journey
 subtitle:
 tags: [mental health]
