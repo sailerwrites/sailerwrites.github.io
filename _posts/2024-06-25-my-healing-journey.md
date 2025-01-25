@@ -2,7 +2,7 @@
 
 layout: post
 title: My Healing Journey
-subtitle:
+subtitle: Being an introvert in nature since I was child, before realizing or understanding the word 'introvert', I thought I was very weird because I was reserved and silent and everyone was raising their hands to participate in the classroom.
 tags: [Mental Health]
 
 ---
