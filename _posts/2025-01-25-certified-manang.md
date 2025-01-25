@@ -1,3 +1,14 @@
+---
+layout: post
+title: Certified Manang 
+subtitle: 
+cover-img: /assets/img/when-shit-happens-2.jpg 
+thumbnail-img: /assets/img/when-shit-happens-2.jpg 
+share-img: /assets/img/when-shit-happens-2.jpg 
+comments: false
+tags: [When Shit Happens]
+author: Sailer
+---
 Dahil nagsawa ako sa office work. Sinubukan ko naman mag-aral ng vocational course at doon ko nakilala si Julian. Lalaki siya pero may feminine qualities. Mukha lang bakla eh. 
 
 "Sure ka ba talaga na hindi ka bakla?"
