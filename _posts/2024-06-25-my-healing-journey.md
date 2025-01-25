@@ -2,7 +2,7 @@
 layout: post
 title: My Healing Journey
 subtitle: 
-tags: [Mental Health
+tags: [Mental Health]
 ---
 
 # **the childhood pessimism**
