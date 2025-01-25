@@ -87,4 +87,4 @@ Pagdating naman sa makeup. Kahit yung lipstick na match sa tone ko hindi ko alam
 
 Pagdating sa pananamit, I chooose comfortable than fashion. Bahala na kung ang baduy ko tingnan sa iba as long as komportable ako sa sinusuot ko. Ayokong pinapakita pusod ko o kaya ang tuhod ko na masyadong maitim. Dahil na rin moreno, maitim talaga ang mga tuhod ko na tadtad ng mga peklat kasi pasaway noong bata. 
 
-I am a certified manang. Yes, certified manang. Hindi ‘yon   
+I am a certified manang. Yes, certified manang.
