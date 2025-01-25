@@ -2,10 +2,6 @@
 layout: post
 title: Certified Manang 
 subtitle: 
-cover-img: /assets/img/when-shit-happens-2.jpg 
-thumbnail-img: /assets/img/when-shit-happens-2.jpg 
-share-img: /assets/img/when-shit-happens-2.jpg 
-comments: false
 tags: [When Shit Happens]
 author: Sailer
 ---
