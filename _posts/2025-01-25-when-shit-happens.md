@@ -4,7 +4,7 @@ subtitle:
 cover-img:
 thumbnail-img:
 share-img:
-tags: [when shit happens] 
+tags: [when_shit_happens] 
 author: Sailer 
 
 ## When Shit Happens
