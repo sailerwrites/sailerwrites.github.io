@@ -1,17 +1,13 @@
 ---
 layout: post 
 title: When Shit Happens 
-subtitle: Adulting might be promising and positive to a teenager who wants to escape her studies and wants to earn money to buy things that she likes. And be that kind of person she desires to be in the near future. 
+subtitle: 
 cover-img:
 thumbnail-img:
 share-img:
 tags: [When Shit Happens] 
 author: Sailer 
 ---
-
-
-## When Shit Happens
-
 
 Adulting might be promising and positive to a teenager who wants to escape her studies and wants to earn money to buy things that she likes. And be that kind of person she desires to be in the near future. 
 
