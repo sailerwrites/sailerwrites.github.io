@@ -1,11 +1,15 @@
+
+---
 layout: post 
 title: When Shit Happens 
 subtitle: 
 cover-img:
 thumbnail-img:
 share-img:
-tags: [when_shit_happens] 
+tags: [when shit happens] 
 author: Sailer 
+---
+
 
 ## When Shit Happens
 
