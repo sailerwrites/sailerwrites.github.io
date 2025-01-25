@@ -2,9 +2,9 @@
 layout: post 
 title: When Shit Happens 
 subtitle: 
-cover-img:
-thumbnail-img:
-share-img:
+cover-img: /assets/img/when-shit-happens.jpg
+thumbnail-img: /assets/img/when-shit-happens.jpg
+share-img: /assets/img/when-shit-happens.jpg
 tags: [When Shit Happens] 
 author: Sailer 
 ---
