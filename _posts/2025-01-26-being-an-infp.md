@@ -10,9 +10,12 @@ That’s what I describe myself and my friends too. Before I discovered the pers
 
 My elementary friends were only one and the misfits of the section. But my friendship with them didn’t last, only in that grade and then I lost communication. I was unattached and too independent, not relying on my classmates or others when it comes to assignments - even Math despite my dislike of the subject. I could manage back then because it was Arithmetic - not with letters when I reached highschool. 
 
-My entry in Wordpress:
+Then, one day, I went to the computer shop to just spend time in the Internet. Mindlessly browsing and listening to Kpop songs. I was curious about what could possibly my personality can be so I took a test. A personality type. I didn't even know that time that it's MBTI. I didn't know that discovering that I am an INFP made me understand myself even before. That I am unique and there's nothing wrong with me, being aloof, silent, and shy when I was younger. As a teenager, apart from my peers who also went through puberty, crushing on boys, pretty-ing themselves, I was busy reading books and frequently enjoyed my alone time and worlds inside my head. To the point of talking to myself. That they noticed. My highschool friends whom I have connection until now that were adults, told me that I was a nerd before. 
 
-![https://i0.wp.com/12cmwrites.com/wp-content/uploads/2024/07/shuffle-53736211851898299132487738882870969472-576x1024.jpg?strip=info&quality=65&resize=351,624&ssl=1](https://i0.wp.com/12cmwrites.com/wp-content/uploads/2024/07/shuffle-53736211851898299132487738882870969472-576x1024.jpg?strip=info&quality=65&resize=351,624&ssl=1)
+But as time goes by, I learned to accept myself. Of truly who I am. Knowing my worth as I reached my twenties. 
+
+
+***
 
 A reserved, silent, nonchalant yet sensitive child as she grew up. She had a bad eyesight since then so she wore a pair of eyeglasses in 3rd grade (that early). She was friends with the odd girl and misfits every grade but the friendship didn’t last and she remained unattached until she reached highschool. Back then, somebody would that she had her own world and she silently agreed and for others, she’s just weird and smart in her own way. But deep inside, she was an average, ordinary, and aloof girl who didn’t mind how unruly her hair was or how dull her bare face. Underneath that silent exterior lies a girl with low self-confidence and who believes that when you are active and participative in the class, you’re smart and brilliant. But later on, as she reached childhood, your intelligence and character didn’t have to be in a spoken manner but beneath what’s inside you.
 
