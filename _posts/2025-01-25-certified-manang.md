@@ -21,7 +21,7 @@ Dahil nagsawa ako sa office work. Sinubukan ko naman mag-aral ng vocational cour
 
 "Hoy ka rin\!"
 
-So alam niya rin pala identity niya sa mundo. He who loves pechay and talong at the same time. He who loves tahong and talong at the same time. Yes. What if gusto ko pala ng tahong? Hindi natin alam. Joke. No. Hindi. As much as I respect and care for my newly found bestfriend, I don't read or watch them. Hindi ba puwedeng may respeto ka naman sa kanila in person? Kasi kahit anong kasarian pa iyan, tao pa rin naman ang mga iyan. If salbahe, wala nang kinalaman ang gender orientation nila. That's them at and pagkatao nila. Tapos na doon, okay? 
+So alam niya rin pala identity niya sa mundo. He who loves pechay and talong at the same time. Yes. What if gusto ko pala ng tahong? Hindi natin alam. Joke. No. Hindi. As much as I respect and care for my newly found bestfriend, I don't read or watch them. Hindi ba puwedeng may respeto ka naman sa kanila in person? Kasi kahit anong kasarian pa iyan, tao pa rin naman ang mga iyan. If salbahe, wala nang kinalaman ang gender orientation nila. That's them at and pagkatao nila. Tapos na doon, okay? 
 
 Sa mundo ng adults. Hindi pa rin talaga nawawala ang mga bullies. Nandiyan pa rin naman sila. Power trippers as ever. Lumaki ka lang at lahat, ibang version na naman ng bullying. This time, pati pagkatao, pamilya mo at pananaw mo sa buhay. Puwedeng pagtripan at gamitin laban sa iyo. As much as I love chismis, ayoko namang umabot sa puntong may marinig ako na buntis ako o may kinakalantaring kung sino sa trabaho. Kasi wala namang basis iyon. 
 
@@ -85,6 +85,6 @@ Ang hirap talaga ng buhay ng isang kulot. Dati, gusto kong magpabangs, hindi ko 
 
 Pagdating naman sa makeup. Kahit yung lipstick na match sa tone ko hindi ko alam. Kinailangan pa akong tulungan ni Julian kung ano ang bagay sa akin na kulay. Hindi na rin ako bumili ng foundation or something kasi makati sa mukha. I hate eye makeups the most. Makati at mahapdi sa mga mata katagalan. 
 
-Pagdating sa pananamit, I chooose comfortable than fashion. Bahala na kung ang baduy ko tingnan sa iba as long as komportable ako sa sinusuot ko. Ayokong pinapakita pusod ko o kaya ang tuhod ko na masyadong maitim. Dahil na rin moreno, maitim talaga ang mga tuhod ko na tadtad ng mga peklat kasi pasaway noong bata. 
+Pagdating sa pananamit, I choose comfortable than fashion. Bahala na kung ang baduy ko tingnan sa iba as long as komportable ako sa sinusuot ko. Ayokong pinapakita pusod ko o kaya ang tuhod ko na masyadong maitim. Dahil na rin moreno, maitim talaga ang mga tuhod ko na tadtad ng mga peklat kasi pasaway noong bata. 
 
 I am a certified manang. Yes, certified manang.
