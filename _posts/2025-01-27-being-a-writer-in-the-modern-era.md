@@ -1,3 +1,11 @@
+---
+layout: post
+title: Being a Writer in the Modern Era 
+subtitle: 
+tags: [A Writer's Sea of Thoughts]
+author: Sailer
+---
+
 For everyone who knew the era of stories with emoticons, emojis, and onomatopoeia but readers didn't even care about the correctness of one's story but delved into the reading experience that satisfied their humor cravings and imagination, from well-loved characters with redeeming and non-redeemable qualities. The stories back then were feel-good stories, fit for teenagers who desire handsome/pretty, cool, sunshine-like, almost-stupid, damsel-in-distress, wallflower female leads and bad boy, obsessive, rude, playboy, sweet male leads. 
 
 It was an era of innocence that has been snatched away with ideals and mature themes. As a spectator and observant reader/writer before, I noticed that my peers and those who were younger than me were exposed to books from pop fiction writers that weren't teen-friendly. The age bracket of readers is quite alarming for books that showcase mature themes that were quite disturbing for me as a writer. This may not be my cup of tea when writing romances. I knew that we couldn't impose our reading choices on people, but mindful reading is crucial if you need to reserve yourself from books that could influence you in different ways. 
