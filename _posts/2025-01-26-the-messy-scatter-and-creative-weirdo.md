@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Messy, Scatter, Carefree & Creative Weirdo
+title: The Messy, Scattered, Carefree & Creative Weirdo
 subtitle: 
 tags: [INFP]
 author: Sailer
