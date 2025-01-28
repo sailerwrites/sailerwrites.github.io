@@ -1,4 +1,10 @@
-
+---
+layout: post
+title: Paano Mo Malalaman Ang Worth Mo?
+subtitle: 
+tags: [When Shit Happens]
+author: Sailer
+---
 
 Kapag matagal ako makatulog, marami akong iniisip niyan. Sometimes, I feel fraud of being an adult. I am an adult in an adult body but I feel like a kid trying to navigate adulthood. Hindi ko alam kung ano ang patutunguhan ko. I'm lost. Marami akong mga thoughts kapag hindi ako makatulog at inaatake ng insomnia. 
 
