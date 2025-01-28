@@ -5,10 +5,9 @@ subtitle:
 tags: [When Shit Happens]
 author: Sailer
 ---
-
 Kapag matagal ako makatulog, marami akong iniisip niyan. Sometimes, I feel fraud of being an adult. I am an adult in an adult body but I feel like a kid trying to navigate adulthood. Hindi ko alam kung ano ang patutunguhan ko. I'm lost. Marami akong mga thoughts kapag hindi ako makatulog at inaatake ng insomnia. 
 
-Pabiling-biling lang ako sa kama. Tapos ko na i-uninstall ang lahat ng social media apps ko. Wala na akong pakialam kung pahirapan akong i-contact ng iba. Ayoko muna ng maingay sa ngayon. Gusto kong magtago. Gusto ko muna ng peace of mind. Makakaya ko naman siguro na wala. True blue introvert ako. Kapag napapaligiran ako ng tao nang matagal, mabilis ma-drain ang social battery. |
+Pabiling-biling lang ako sa kama. Tapos ko na i-uninstall ang lahat ng social media apps ko. Wala na akong pakialam kung pahirapan akong i-contact ng iba. Ayoko muna ng maingay sa ngayon. Gusto kong magtago. Gusto ko muna ng peace of mind. Makakaya ko naman siguro na wala. True blue introvert ako. Kapag napapaligiran ako ng tao nang matagal, mabilis ma-drain ang social battery.
 
 Some adults siguro, they become introverts or ambiverts who appreciate the silence and peace of mind in the long run. 
 
