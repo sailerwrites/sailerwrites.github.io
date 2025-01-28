@@ -1,4 +1,4 @@
----
+by---
 layout: post
 title: The Messy, Scattered, Carefree & Creative Weirdo
 subtitle: 
@@ -31,6 +31,6 @@ A person may know a person for years yet only know the surface level of her pers
 
 Carefree. One day, when she hanged in a public library, she chose the two fish colored in blue and white scales. She randomly chose that and there was an explanation of the symbol – she’s an independent, carefree, or free soul. That’s what she is. She’s spontaneous, impulsive at times, and decide things randomly on a day-to-day basis. As a free soul, she dives into different interests and want to explore new experiences. She’s brave enough to try new things yet discontinuing it sometimes when her interest dies out.
 
-A creative weirdo. She values self-expression. She express herself through writing, art, singing, craft and such that relay hwr thoughts, emotions, and alleviate her stress. She needs external experiences to quiet down the storms inside her. It’s very important for her to write, write, and write endlessly to express whatever she’s experiencing, in journaling or sharing it in the Internet.
+A creative weirdo. She values self-expression. She express herself through writing, art, singing, craft and such that relay her thoughts, emotions, and alleviate her stress. She needs external experiences to quiet down the storms inside her. It’s very important for her to write, write, and write endlessly to express whatever she’s experiencing, in journaling or sharing it in the Internet.
 
-A messy, scatter, carefree and creative weirdo. She’s just a human being just like others, unique and trying to live in her own way.
+A messy, scattered, carefree and creative weirdo. She’s just a human being just like others, unique and trying to live in her own way.
