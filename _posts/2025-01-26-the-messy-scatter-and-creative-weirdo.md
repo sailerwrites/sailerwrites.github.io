@@ -1,4 +1,4 @@
-by---
+---
 layout: post
 title: The Messy, Scattered, Carefree & Creative Weirdo
 subtitle: 
