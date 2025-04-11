@@ -3,7 +3,7 @@ layout: post
 title: A Liberating Moment: Resigned 
 subtitle: 
 tags: [Healing Notes]
-
+author: Sailer 
 ---
 I recently resigned from my previous job as a Content Writer/Editor.  The moment I passed the resignation letter last February 14, it’s like a break-up letter to my previous company, that I’ve done with all their shenanigans, the mistreatment that I’ve experienced, causing my relapse (mental health) and worries and stressing situations within that workplace. It’s even funnier because others would prep their resignation letter even a year ago but me? I wrote my resignation letter a month before I rendered. All the tears, blood, sweat, effort, and time, I poured on this job, and I’ve ran out of patience. I realized that I couldn’t put up with it anymore. It only took a trigger for me to pass the resignation letter, the unfairness at work and underappreciation of my efforts because of a minor mistake of sleeping during work from home. We were micromanaged there, every move was observed, and we should finish our output even if it’s too complex, for a short period of time. The amount of stress and worries weren’t worth it for the pay. It felt like I’ve exhausted my energy and effort for a little amount. I explored various tasks beyond my job responsibilities. Although, I learnt from it but it’s really unfair wherein the company didn’t respect the boundaries. Even my rendered days, I was bombarded with complex tasks, as if the company want to squeeze out everything from me. Whenever I was awarded as the top performer, I always thought that I exerted too much, my resources and time for this job that didn’t satisfy me anymore. 
 
