@@ -1,6 +1,6 @@
 ---
 layout:post 
-title:A Liberating Moment: Resigned
+title:A Liberating Moment Resigned
 subtitle:
 tags:[Healing Notes]
 author:Sailer 
