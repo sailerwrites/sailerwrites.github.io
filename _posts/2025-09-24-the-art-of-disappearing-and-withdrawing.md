@@ -1,4 +1,11 @@
-
+---
+layout: post
+title: The Art of Disappearing and Withdrawing
+subtitle: 
+tags: [Healing Notes]
+author: Sailer
+---
+ 
 
 The urge to disappear and withdraw from the world and the environment that you’re living in is a complex feeling, a concept that stems from being overwhelm from everything or a feeling that you can’t explain. I have my reasons of why I choose to withdraw from the world and I’m quite guilty of ignoring my friends and even persons who are close to me because I want to sort my own dilemma and feelings to myself, or that I need a space to collect myself. This is also a difficult feeling since storing this indescribable emotions of nothingness and passiveness can be destructive and sometimes, this feels like draining little by little. Dwindling each time - like a candle. 
 
