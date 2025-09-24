@@ -129,7 +129,7 @@ navbar-var-length: false
 #keywords: "my,list,of,keywords"
 
 ######################################
-# --- Colours / background image --- #
+# --- Colours / background image: url("download (1).jpg")--- #
 ######################################
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
