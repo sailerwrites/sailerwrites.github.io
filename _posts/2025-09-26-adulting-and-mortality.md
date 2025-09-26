@@ -7,7 +7,11 @@ author: Sailer
 ---
 
 **I – Adulting**
-Hi! How are you? How’s life lately? One night, I was disturbed of that feeling like my soul has been weary ever since I outgrow my teenage era and I am working in a traditional job and spiraled into the adult working era and same old routine everyday – waking up, working for eight hours then going home then sleeping after that. A repeating cycle. An auto pilot. 
+
+Hi! How are you? How’s life lately?
+
+One night, I was disturbed of that feeling like my soul has been weary ever since I outgrow my teenage era and I am working in a traditional job and spiraled into the adult working era and same old routine everyday – waking up, working for eight hours then going home then sleeping after that. A repeating cycle. An auto pilot. 
+
 Suddenly, the overachiever, grade-conscious child became the burnout, dull adult, still figuring out how to live and still searching for the purpose of living in this world. Feeding oneself with ideas of society’s expectations and their own meanings of happiness, that you’d think it’ll burn bright your soul. But you have to trade away the success and the perception of being successful in order to gain peace of mind and appreciate the small moments. 
 
 You’d think that consuming tangible and material things can satisfy the hunger and the unhappiness that you’d felt but overconsuming left you being messy. Just a band-aid solution to cure the nothingness. 
