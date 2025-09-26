@@ -43,21 +43,21 @@ Pick up those yarns and threads to crochet and knit. Read intellectual books tha
 Here’s my list of to-dos to avoid spiraling into the rabbit hole of digital content that results in brain rot: 
 
 -	Study again. Pick up some interesting philosophies or theories that you want to revisit.
--	
+
 -	Journal your thoughts. Search topics on Pinterest that you can write about.
--	
+
 -	Watch classic films or even films that are high rated from Letterbox then do write a reflection or how you perceive the flow of the story in the film.
--	
+
 -	Do something creative. Open your Carrd account for directory and organization purposes.
--	
+
 -	Listen to brain-provoking podcasts and even podcasts that focus on a field that interests you, like the environment, psychology, and people’s behavior and even literature.
--	
+
 -	Make a passion project. Compile your writings and create an e-pub/pdf then post it on your platforms. If you have extra money, buy crafts and revisit your old passions. Or just pick up those crafts and materials that you ignore for some time. Even books that were left unread.
--	
+
 -	Create a short story or even a shorter narrative about your day, a villain’s POV, a male lead’s POV, your friend’s POV or your POV. Don’t mind about the plot or the flow of the story.
--	
--	Spend time in nature. What if you got on the bus without a destination in your mind? Find a place where you can sit, like seaside or the rice fields.
--	
+
+-	Spend time in nature. What if you got on the bus without a destination in your mind? Find a place where you can sit, like the seaside or the rice fields.
+
 -	Pick up those papers and oil pastels or watercolor then paint. Drew inspiration from the physical surroundings or even from your Pinterest. 
 
 There are a lot of things to distract our brain from digesting low-quality information and content from social media. 
