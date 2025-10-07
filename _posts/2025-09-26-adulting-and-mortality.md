@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adult and Mortality
+title: Adulting and Mortality
 subtitle: 
 tags: [Letters to the Universe]
 author: Sailer
