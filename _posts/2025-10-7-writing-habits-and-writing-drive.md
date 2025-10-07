@@ -6,7 +6,7 @@ title: Writing Habits and Writing Drive
 
 subtitle: 
 
-tags: \[A Writer's Sea of Thoughts]
+tags: [A Writer's Sea of Thoughts]
 
 author: Sailer
 
@@ -57,6 +57,7 @@ As of this moment, I stopped writing because I need to strategize. The thing abo
 
 
 Then after, I have to let days or months passes by until I pick up the story and recap the events. 
+
 
 
 
