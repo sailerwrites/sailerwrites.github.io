@@ -29,6 +29,7 @@ Sometimes, it’s about sharing a part of you in the universe – your smiles, y
 We all die when the time comes. No matter how successful or powerful you are right now, it does not matter even the material things that you gain from this lifetime, you won’t carry that in the afterlife. The afterlife is dark; you have no consciousness, and everything is on pause – unaware of the existence of life and devoid of anything. 
 
 Disturbed upon waking up in the middle of the night, I realize that you may feel mediocre and an adult baby, never been wiser and still in that phase of being lost and figuring out things.  
+
 We all die. We will disintegrate on the earth. We will go back to where we come from. 
 
 You are a part of the universe but do your actions, your decisions and your contributions affect the workings of the universe? To realize that you are just a miniscule speck of dust in the universe also means accepting that we aren’t that special that the universe will stop to conspire for you. It’s to realize that our life is short and we have only a short time to live in our means. 
