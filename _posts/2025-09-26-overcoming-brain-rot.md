@@ -2,7 +2,7 @@
 layout: post
 title: Overcoming Brain Rot
 subtitle: 
-tags: [Postcards and Notes]
+tags: [Journal Entries]
 author: Sailer
 ---
 
