@@ -1,0 +1,32 @@
+---
+layout: post
+title: A Social Commentary
+subtitle:
+tags: [Journal Entries]
+author: Sailer
+---
+
+_Disclaimer: This blog is editorial in nature._
+
+I grew up in a humble family. My parents weren’t ordinary office workers and did not get the opportunity to take higher education to apply for offices, so they found ways to put food on our table, selling food for people in our neighborhood. My mother always reminded us that we should be thankful to our customers because they keep us alive in literal sense. The profit from our small food business has kept us alive until now and has helped us sustain our needs.
+I heard some news that the fertility rate of the Philippines is decreasing, and this could be the sign that adults like me realized that having kids this time is a liability. We, as kids, know it felt like to budget our food enough for our family, and know how it felt like when our electricity and water connection had been cut due to not paying them on time, know how it felt to be left behind when it comes paying your fees at school or saving your allowance for upcoming school fees back then, know how it felt when you disappoint your parents because you have low grades, know how it felt when you can’t buy something that you want because your parents couldn’t afford it and many other things that we experienced in our younger years.
+
+As an eldest daughter, I was expected to help my younger siblings the moment I graduated and found a job. I still live with my family since I could not afford to live alone with my compensation, and I am still helping with the expenses, bills and tuition of my younger brother. Those are my responsibilities as the eldest and the one who has a stable job apart from the income that my mother generated. For families and parents of the earlier generation, they treat their children as their investment, the ones who will alleviate poverty. And this is the culture we have in the Philippines. This can be toxic because it may hinder a child’s dreams because she or he has to prioritize her/his family first. That’s why, even in the dating scene, being the breadwinner of the family was labeled as a red flag for others. But can you really ignore your family with their needs? We are a close-knit community as Asians and family oriented. What happened to every family member is also our business. We help each other.
+
+Your family has higher expectations of you, and I experienced that. The pressure to be the best and not be a failure. I don’t know if this is a common experience for an eldest daughter but being one can be hard because you need to be strong and overcome those challenges. I spent my childhood suppressing my emotions and it resulted in depression in my teen years. Sometimes, I felt neglected. Sometimes, I felt like I wasn’t enough, or I was not giving my best. Sometimes, I felt I was not normal as a child – being timid, quiet, meek and weak-hearted. I considered my emotions as a weakness that only hinders me, but I failed to consider it as normal, and I have to regulate them. I am an emotional person, and it took me years to accept that aspect of my personality.
+
+At my age and the individuals at my age, older and younger than me, Millennials and Gen Z, realized that each of us will break our generational trauma. Lots of us know that having a family or having a kid felt like breaking the generational trauma. That’s a literal take. We know how pricey it is to raise a child and family in this economy. You barely have to yourself and with childcare and house expenses.
+
+My parents weren’t perfect. Every family is not perfect and dysfunctional at some point but how dysfunctional it could be? What extent? I’m also afraid that I can’t handle motherhood because I am not ready, despite being inmy  late twenties. Others would have their life together, having kids, married, having a high-paying job, travelling, and among other things that we expected to experience of being an adult.
+
+My life is different from others and life is not a race. There are many reasons to consider and most of them are financial and economic reasons. We grew up in a hostile and dysfunctional household; that’s why we try to be the better versions of ourselves. As a child neglected by their parents, we make sure our children won’t feel neglected. We make sure we have enough savings for future purposes because we know how it felt when we have no money. We teach ourselves to save for winter periods and manage our finances. We heal our inner child in our own ways. We are aware that the world that we are living in right now is not the same eons ago and we have different challenges from our forefathers who experienced wars, upheavals, and also poverty.
+
+There’s a current shift in the world. Some countries’ fertility rates are decreasing because people are suffering and barely managing the changes in the economy. The prices are skyrocketing. It’s hard to save money to buy a house in a minimum wage job because it only provides the basic needs for our family. We are aware of birth control to avoid pregnancies when we barely have savings for ourselves. It’s not about love anymore, but the things that we should consider before we build a family. It's poverty when we can’t afford healthcare. It’s poverty when we can’t stretch our income for the entire month to sustain the needs of our family. We have this awareness of the struggles and challenges that we had when we were children, realizing that our parents were struggling to provide our needs, from the food on the table to schooling. We can’t blame them, knowing that they don’t have opportunities to live for themselves. And now, our generation has delayed making a family or even considering one. With this decision, we are aware of the consequences and our responsibilities. We don’t want the next generation to experience our experiences. Just like our parents. My mother wants us to finish college for our bright future. Education is very important to her and that’s why I finished college despite the challenges that we encountered in our family and now it’s my time to give back to my family. That’s what we have in our culture and my mentality also. Other parents would not oblige their daughters and their sons paying for the expenses in their home, but it’s our initiative to give because we have and we can give back. ‘Utang-na-loob’ is part of our culture.
+ 
+ 
+ 
+ 
+ 
+ 
+
+
