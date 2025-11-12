@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: When Creativity Feels Low
@@ -6,7 +5,6 @@ subtitle:
 tags: [A Writer's Sea of Thoughts]
 author: Sailer
 ---
-
 
 **How do you handle writer’s block or creative fatigue?**
 
