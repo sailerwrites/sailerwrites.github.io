@@ -1,10 +1,9 @@
-***
+---
 layout: post
 title: Dealing With Writing Slump
 subtitle: 
 tags: [A Writer's Sea of Thoughts]
-***
-
+---
 
 It’s been so many days I haven’t written a piece where I can say that my creativity flows freely like a river. One of the activities to counter my writing slump was to write an essay that was filled with my point of view regarding the political landscape of the Philippines. I have written four essays about that. But even so, I’m still stuck with writing anything creative. I even created a Substack publication in order to just write down my personal experiences like this platform, but instead of overcoming my writing slump, I keep getting stuck. Even until now.
 
